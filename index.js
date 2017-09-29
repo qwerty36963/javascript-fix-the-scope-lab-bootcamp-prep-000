@@ -6,9 +6,7 @@ function myAnimal() {
 
 function yourAnimal() {
    var animal = cat
-                               // How can we make sure that this function
-      }                                      // and the above function both pass?
- console.log(yourAnimal())                              // P.S.: You can't just hard-code 'cat' below
+ }                          
 
 
 
